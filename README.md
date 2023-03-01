@@ -1,4 +1,4 @@
-# Alfred-workflow-list-file-metadata-in-Terminal
+# Alfred-workflow-list-file-metadata
 # Introduction
 
 This rather simple workflow acts as a `Universal Action` on a single selected file to provide access to that file's metadata in Terminal. You can choose whether to see merely the `Universal Type Identifiers` ("UTI") for the file or to see all of the metadata.
